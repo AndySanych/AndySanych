@@ -2,17 +2,17 @@
 
 <!-- header -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100"/>
 <!-- a network of social interactions and personal relationships -->
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=inherit" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://t.me/AndySanych">
+    <img src="https://img.shields.io/badge/Telegram-f4f4f5?style=flat-square&logo=telegram&logoColor=inherit" alt="Telegram Badge"/>
+  </a>
   <a href="https://www.facebook.com/AndySanych">
     <img src="https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="mailto:andy.machula@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d3d3d3?style=flat-square&logo=gmail&logoColor=inherit" alt="Gmail Badge"/>
