@@ -26,7 +26,7 @@
 
 <!-- hero -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dxmtc3acBAJ87Aywug/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/cHQ6SYDGeQH1b4s1pL/giphy.gif" width="500" />
   
 <!--   <img src="https://media.giphy.com/media/YOqZF2wH00Pr3rye73/giphy.gif" width="500" /> -->
 </div>
