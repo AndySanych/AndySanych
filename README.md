@@ -1,6 +1,5 @@
 <!-- Personal Header with Simple and Clean Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o85xkAWGqZHyHZp3e/giphy.gif" width="250" alt="Creative Developer"/>
+<div align="center"
   <h1>Hi, I'm Andy! 👨‍💻</h1>
   <p><em>Frontend Developer | Lover of sleek designs and clean code</em></p>
   <p>I craft user experiences that are as functional as they are beautiful.</p>
